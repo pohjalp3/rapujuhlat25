@@ -6,7 +6,7 @@ html_content = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pohjalaisten Rapujuhlat 2025/title>
+    <title>Pohjalaisten Rapujuhlat 2025</title>
     <link rel="icon" href="🦀" type="image/x-icon">
     <style>
         body {
