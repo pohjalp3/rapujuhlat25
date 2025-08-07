@@ -7,7 +7,7 @@ html_content = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pohjalaisten Rapujuhlat 2025</title>
-    <link rel="icon" href="taplarapuja.jpg" type="image/jpgs">
+    <link rel="icon" href="taplarapuja.jpg" type="image/jpg">
     <style>
         body {
             font-family: 'Arial Nova Cond Light', 'Arial Narrow', Arial, sans-serif;
