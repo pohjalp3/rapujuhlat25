@@ -6,7 +6,8 @@ html_content = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Drinking Songs Collection</title>
+    <title>Pohjalaisten Rapujuhlat 2025/title>
+    <link rel="icon" href="🦀" type="image/x-icon">
     <style>
         body {
             font-family: 'Arial Nova Cond Light', 'Arial Narrow', Arial, sans-serif;
@@ -500,14 +501,10 @@ mutta korkin avaamalla, sulaa sydän uudelleen.</div>
 # Write the HTML content to a file
 html_filename = "rapujuhlat2025.html"
 html_filepath = os.path.join(os.getcwd(), html_filename)
- 
 with open(html_filepath, "w", encoding="utf-8") as file:
     file.write(html_content)
  
 print(f"HTML file '{html_filename}' has been created successfully!")
- 
-# Open the HTML file directly in the default browser
 print("Opening the HTML file...")
 webbrowser.open(f"file://{html_filepath}")
  
-print("✅ Done! The HTML file should now open showing your drinking songs collection!")
