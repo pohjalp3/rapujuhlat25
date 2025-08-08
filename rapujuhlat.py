@@ -525,10 +525,17 @@ Vi ska dricka hela natten alkohol!</div>
                 (melodia: Joulupukki)
             </div>
            
-            <div class="verse"> 00 00 00 01, 00 10 0011
-01 00 01 01, 01 10 0111
-10 00 10 01, 10 10 1011
-11 00 11 01, 11 10 1111</div>
+            <div class="verse"> 00 00 00 01,
+00 10 0011</div>
+
+            <div class="verse">01 00 01 01,
+01 10 0111</div>
+
+            <div class="verse">10 00 10 01,
+10 10 1011</div>
+
+            <div class="verse">11 00 11 01,
+             11 10 1111</div>
            
             <div class="back-to-top">
                 <a href="#top">↑ Back to top</a>
